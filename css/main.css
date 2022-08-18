@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css2?family=Rampart+One&display=swap);
+
+.menu{
+    background: #51d1f6;
+}
+.h1{
+    text-align: center;
+    margin: 2rem;
+    font-family: 'Rampart One';
+}
+.p{
+    margin: 1rem;
+}
